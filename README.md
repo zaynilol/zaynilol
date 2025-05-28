@@ -1,7 +1,5 @@
 ## Heyhey zayni here 😋
 
-[![MasterHead](https://ko-fi.com/s/fe4602f7a4)](https://github.com/zaynilol)
-
 
 <!--
 **zaynilol/zaynilol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
