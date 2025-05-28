@@ -4,6 +4,8 @@
 
 I love omori   <img align="right" alt="Coding" width="200" src="https://github.com/zaynilol/zaynilol/blob/main/xv8zchgai7d71.gif">    
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> 
 
 <!--
 **zaynilol/zaynilol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
