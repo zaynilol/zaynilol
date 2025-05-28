@@ -2,7 +2,9 @@
 
 ## Heyhey zayni here 😋
 
-I love omori
+I love omori   <img align="right" alt="Coding" width="400" src="https://github.com/zaynilol/zaynilol/blob/main/xv8zchgai7d71.gif">    
+
+
 <!--
 **zaynilol/zaynilol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
