@@ -41,7 +41,12 @@ I make stuff sometimes. I'll try to put it all here :P
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
+### - Microsoft Office Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
 
 <!--
 **zaynilol/zaynilol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
