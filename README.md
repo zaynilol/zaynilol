@@ -5,9 +5,6 @@
 I love omori   <img align="right" alt="Coding" width="100" src="https://github.com/zaynilol/zaynilol/blob/main/xv8zchgai7d71.gif">    
 
 ### 🛠️ Languages and Tools:
-
-### 🛠️ Technical Skills
-
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
