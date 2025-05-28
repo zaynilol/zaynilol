@@ -2,7 +2,7 @@
 
 ## Heyhey zayni here 😋
 
-I love omori   <img align="right" alt="Coding" width="400" src="https://github.com/zaynilol/zaynilol/blob/main/xv8zchgai7d71.gif">    
+I love omori   <img align="right" alt="Coding" width="200" src="https://github.com/zaynilol/zaynilol/blob/main/xv8zchgai7d71.gif">    
 
 
 <!--
